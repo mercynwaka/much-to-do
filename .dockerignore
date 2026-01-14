@@ -1,0 +1,12 @@
+.git
+.gitignore
+docker-compose.yml
+kubernetes/
+scripts/
+evidence/
+README.md
+vendor/
+*.exe
+*.test
+.env
+*.env
